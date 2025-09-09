@@ -19,6 +19,6 @@
 #box3 {
     top: 130px;
     left: 150px;
-    background-color: blue;
+    background-color: rgb(29, 29, 220);
     z-index: 3;
 }
